@@ -1,6 +1,6 @@
 Create an Azure Service Bus and Storage Queue
 =
-In this exercise, we will be creating two of the most popular services used in background task architecture. In order to execute the bellow instructions, you only need to run commands\Configs\config.ps1. All the resources will automatically be deployed for you.
+In this project, we will be creating two of the most popular services used in background task architecture. In order to execute the bellow instructions, you only need to run commands\Configs\steps.ps1. All the resources will automatically be deployed for you.
 
 ## Service Bus
 1. Create a Resource Group

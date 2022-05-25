@@ -27,8 +27,3 @@ $cfg_file = ".\commands\Configs\var.cfg"
 } | Set-Content -Path $cfg_file
 
 
-#######################################################################
-# Next step :
-
-"Now run : commands\VirtualMachine\VM_create.ps1"
-
